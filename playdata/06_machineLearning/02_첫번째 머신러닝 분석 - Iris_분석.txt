@@ -1,0 +1,2 @@
+scikit learn (업그레이드 설치)
+pip install scikit-learn --upgrade
